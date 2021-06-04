@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "CityFinderFSharp", "CityFinderFSharp.fsproj", "{E8E096D7-74A0-4119-9BDF-6B8FA3392D15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E096D7-74A0-4119-9BDF-6B8FA3392D15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E096D7-74A0-4119-9BDF-6B8FA3392D15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E096D7-74A0-4119-9BDF-6B8FA3392D15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E096D7-74A0-4119-9BDF-6B8FA3392D15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E91C54EB-97A4-463B-B95D-08C0E1336C56}
+	EndGlobalSection
+EndGlobal

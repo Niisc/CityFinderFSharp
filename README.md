@@ -1,5 +1,5 @@
 # CityFinderFSharp
-Used F# to complete city finder challenger
+Used F# to complete city finder challenge
 # How to use
 1) Compile the code
 2) Open up your terminal, go to the compiled file location and run the current command 
